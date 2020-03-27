@@ -1,0 +1,21 @@
+{
+  "name": "covid19-app-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "next": "^9.3.1",
+    "novelcovid": "^1.0.7-b3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
